@@ -1,0 +1,60 @@
+{
+  "themes": {
+    "senja": {
+      "titles": ["Di antara jeda", "Warna yang tertinggal", "Sebelum lampu menyala", "Jam pulang burung"],
+      "words": {
+        "waktu": ["pukul lima", "ujung hari", "menit terakhir", "ambang petang", "hari yang lelah"],
+        "benda": ["cangkir", "jendela", "kursi rotan", "surat kecil", "piring biru"],
+        "subjek": ["bayang-bayang", "sore", "kita", "sebuah rumah", "burung-burung"],
+        "rasa": ["rindu yang sabar", "nama yang nyaris lupa", "hangat dari dapur", "janji kecil"],
+        "gerak": ["cahaya merunduk", "angin berbelok", "warna memudar", "langit melipat diri"],
+        "alam": ["daun jambu", "awan tipis", "laut jauh", "pohon trembesi"],
+        "aksi": ["bercermin", "menghitung musim", "menunggu kabar", "menjadi merah"],
+        "tempat": ["saku mantel", "ambang pintu", "rak paling atas", "mimpi yang belum selesai"]
+      },
+      "templates": ["Di {waktu}, {benda} menyimpan {rasa}.", "{subjek} belajar {aksi} tanpa suara.", "{gerak} pelan-pelan di tepi {alam}.", "Ada yang {aksi} di balik {benda}.", "{alam} mengantar {rasa} sampai ke rumah.", "Kita pulang lewat {tempat} yang sama."]
+    },
+    "hujan": {
+      "titles": ["Catatan dari genting", "Air yang tahu jalan", "Sore basah", "Bahasa jendela"],
+      "words": {
+        "waktu": ["sore begini", "pagi yang basah", "tengah malam", "sepanjang perjalanan", "musim yang panjang"],
+        "benda": ["genting tua", "payung kuning", "gelas bening", "buku terbuka", "sepatu kecil"],
+        "subjek": ["hujan", "selokan", "kaca jendela", "jalan pulang", "pohon mangga"],
+        "rasa": ["sunyi yang adem", "sisa percakapan", "bau tanah basah", "rindu tanpa nama"],
+        "gerak": ["rintik mengetuk", "air menyusuri", "awan menumpahkan isi", "angin menyisir"],
+        "alam": ["talang rumah", "daun talas", "asap dapur", "bibir sungai"],
+        "aksi": ["mengulang cerita", "mencari jalan", "diam sebentar", "menyimpan rahasia"],
+        "tempat": ["teras yang teduh", "bawah meja", "lipatan langit", "saku yang hangat"]
+      },
+      "templates": ["{waktu}, {benda} penuh oleh {rasa}.", "{subjek} tak bertanya siapa yang pulang.", "{gerak} pelan di sepanjang {alam}.", "Kita {aksi} di bawah atap yang sama.", "Tetes terakhir menemukan {tempat}.", "Besok, jalan ini akan lebih ringan."]
+    },
+    "kota": {
+      "titles": ["Peta yang berdenyut", "Di halte berikutnya", "Lampu-lampu kecil", "Kota dalam saku"],
+      "words": {
+        "waktu": ["jam berangkat", "lampu merah", "pukul tujuh", "tengah keramaian", "malam di peron"],
+        "benda": ["tiket kusut", "kopi kertas", "papan iklan", "helm hitam", "peta lipat"],
+        "subjek": ["bus terakhir", "trotoar", "gedung-gedung", "kota", "seorang asing"],
+        "rasa": ["rindu di sela bising", "janji yang tertunda", "wajah dari rumah", "hening sekilas"],
+        "gerak": ["lampu berkedip", "roda berputar", "bayang menyeberang", "pintu kereta menutup"],
+        "alam": ["aspal yang hangat", "lorong sempit", "jembatan layang", "etalase toko"],
+        "aksi": ["menghafal wajah", "terus melaju", "menunggu hijau", "mencari arah"],
+        "tempat": ["halte seberang", "saku belakang", "lantai paling atas", "tikungan yang ramai"]
+      },
+      "templates": ["Di {waktu}, {benda} memantulkan {rasa}.", "{subjek} sibuk {aksi} tanpa saling mengenal.", "{gerak} jauh di atas {alam}.", "Kita berhenti sebentar, kota tetap berlari.", "Ada rumah kecil di {tempat}.", "Namamu tiba sebelum pesan terakhir."]
+    },
+    "pulang": {
+      "titles": ["Alamat yang diingat tubuh", "Di meja makan", "Rumah mengenal langkah", "Jalan yang hafal"],
+      "words": {
+        "waktu": ["setelah perjalanan", "tiap hari Jumat", "pagi pertama", "jam makan malam", "sebelum pintu ditutup"],
+        "benda": ["sendal di teras", "teko lama", "kunci berkarat", "taplak bunga", "kursi dekat dapur"],
+        "subjek": ["rumah", "ibu", "lampu teras", "pintu depan", "suara dari dapur"],
+        "rasa": ["rasa aman", "cerita lama", "hangat yang sederhana", "nama kecilku"],
+        "gerak": ["aroma nasi mengalir", "lampu teras menyala", "pintu membuka ruang", "suara piring beradu"],
+        "alam": ["halaman belakang", "pohon jambu", "lorong kecil", "jalan berbatu"],
+        "aksi": ["menyebut namaku", "menanak rindu", "menunggu di ambang", "membiarkan waktu"],
+        "tempat": ["kursi favorit", "meja makan", "pintu yang terbuka", "pelukan yang akrab"]
+      },
+      "templates": ["{waktu}, {benda} masih menungguku.", "{subjek} ingat cara {aksi} dengan sabar.", "{gerak} sampai ke {alam}.", "Di sini, bahkan diam punya {rasa}.", "Langkahku menemukan {tempat}.", "Aku tak perlu mengetuk dua kali."]
+    }
+  }
+}
